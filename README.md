@@ -2,7 +2,7 @@
 
 ### My name is Thiago Pereira
  - 🌎 I’m Brazilian 🇧🇷
- - 🔭 I’m currently IT Support Intern
+ - 🔭 I’m currently Back-end Developer
  - 🌱 I’m currently learning React Native, Typescript, Rest API
  - 💬 Ask me about anything, I may not know the answer but we can look it up together!
  - 😄 Pronouns: He/Him
@@ -10,7 +10,7 @@
 ---
 ### Meu nome é Thiago Pereira
  - 🌎 Sou Brasileiro, nascido em Brasília
- - 🔭 Atualmente estou trabalhando como estagiário de TI 
+ - 🔭 Atualmente estou trabalhando como Desenvolvedor Back-end Jr
  - 🌱 Atualmente estou aprendendo React Native, Typescript, API Rest 
  - 💬 Pergunte-me sobre qualquer coisa, posso não saber a resposta, mas podemos procurar juntos!
  - 😄 Pronomes: Ele/Dele
